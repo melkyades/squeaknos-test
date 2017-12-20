@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "PCIDevice",
+	"category" : "SqueakNOS-Devices-Storage",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"primary",
+		"secondary"
+	],
+	"instvars" : [ ],
+	"name" : "ATAController",
+	"type" : "normal"
+}

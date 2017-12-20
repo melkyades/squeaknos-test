@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MultiByteFileStream",
+	"category" : "SqueakNOS-Filesystems",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"offset",
+		"resize"
+	],
+	"name" : "MultiByteFilesystemFileStream",
+	"type" : "normal"
+}

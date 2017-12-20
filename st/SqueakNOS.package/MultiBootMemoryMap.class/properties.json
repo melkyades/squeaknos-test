@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ExternalStructure",
+	"category" : "SqueakNOS-External-Structures",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"size"
+	],
+	"name" : "MultiBootMemoryMap",
+	"type" : "normal"
+}

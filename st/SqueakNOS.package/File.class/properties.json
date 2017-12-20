@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "GuillermoPolito 6/5/2015 11:08",
+	"super" : "FilesystemContent",
+	"category" : "SqueakNOS-Filesystems",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"size"
+	],
+	"name" : "File",
+	"type" : "normal"
+}

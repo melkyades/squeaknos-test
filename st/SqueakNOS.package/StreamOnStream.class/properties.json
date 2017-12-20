@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "PositionableStream",
+	"category" : "SqueakNOS-Filesystems",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contentLength",
+		"offset",
+		"stream",
+		"original"
+	],
+	"name" : "StreamOnStream",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "HardwareDevice",
+	"category" : "SqueakNOS-Devices-USB",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"frameList"
+	],
+	"name" : "USBUHCIController",
+	"type" : "normal"
+}

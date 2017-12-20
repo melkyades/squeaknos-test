@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MultiByteFileStream",
+	"category" : "SqueakNOS-FileSupport",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"channel"
+	],
+	"name" : "RemoteMultiByteFileStream",
+	"type" : "normal"
+}
